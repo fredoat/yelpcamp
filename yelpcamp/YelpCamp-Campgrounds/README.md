@@ -5,11 +5,11 @@
   <p align="center">
     <b>YelpCamp Campgrounds</b>
     <br />
-    <!-- <a href="https://arcane-retreat-14101.herokuapp.com/">View Demo</a> -->
+    <!-- <a href="#">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/yashfalke77/food-ordering-app/issues">Report Bug</a>
+    <a href="#">Report Bug</a>
     ·
-    <a href="https://github.com/yashfalke77/food-ordering-app/issues">Request Feature</a>
+    <a href="#">Request Feature</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashfalke77/YelpCamp-Campgrounds
+   git clone https://github.com/fredoat/YelpCamp
    ```
 2. Install NPM packages
    ```sh
@@ -112,9 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
-
-Project Link: [YelpCamp Campgrounds](https://github.com/yashfalke77/YelpCamp-Campgrounds)
+Fred Akanji - [@yashfalke77](https://www.instagram.com/fredoat/) - fredoataka@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
