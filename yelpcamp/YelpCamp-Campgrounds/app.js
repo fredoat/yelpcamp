@@ -77,7 +77,7 @@ store.on("error", function (e) {
 })
 
 const sessionConfig = { 
-    name: 'session',  //changing the name of session
+    name: 'session',  //changing the names of session
     secret,
     resave: false,
     saveUninitialized: true,
